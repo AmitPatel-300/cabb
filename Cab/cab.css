@@ -1,0 +1,73 @@
+.image {
+	background-image: linear-gradient(rgba(100, 100, 100, 0.5), rgba(100, 100, 100, 0.5)), url(cab.jpg);
+	background-size: 100% 100%;
+}
+
+.navback {
+	background-color: #D5FB56;
+}
+
+.hcol {
+	color: #BC95F4;
+	font-size: 160%;
+}
+
+.hcol1 {
+	color: #DDFA26;
+	font-size: 160%;
+}
+
+.footcolor {
+	background-color: #3D3D3A;
+}
+
+.btncolor {
+	background-color: #DDFA26;
+	width: 100%;
+}
+
+.border {
+	box-shadow: 5px 10px 5px #888888;
+}
+
+.logo {
+	background-color: #DDFA26;
+	margin-left: auto;
+	/*margin-top:2%; */
+	padding: 7px;
+	text-align: center;
+	font-weight: bold;
+	border-radius: 40%;
+	/*text-align: center;*/
+}
+
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+	-webkit-appearance: none;
+	margin: 0;
+}
+.h2 {
+	color: #C7FF66;
+	font-size: 30px;
+	text-shadow: 3px 2px 2px #000000;
+}
+
+.round {
+	border-radius: 10px;
+}
+
+.color {
+	background-color: #DEDEDA;
+}
+
+select {
+	-webkit-appearance: none;
+}
+
+.dis {
+	border: none;
+}
+
+.bgco {
+	background-color: #ebe6e6;
+}
